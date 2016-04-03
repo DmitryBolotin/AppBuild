@@ -2,8 +2,8 @@
 
 ### Pre requirements
 ```sh
-1. [Download Java JDK for Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "Download Java JDK")
-2. [Android JDK tools or Android studio](http://developer.android.com/sdk/index.html#download "Android JDK tools or Android studio")
+1. [Download Java JDK for Windows](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "Download Java JDK")
+2. [Android JDK tools or Android studio](https://developer.android.com/sdk/index.html#download "Android JDK tools or Android studio")
 3.0. Require if you installed Android JDK tools(Open Android SDK manager and select next options):
 3.1. SDK Platform for android-23
 3.2. Android SDK Platform-tools (latest)
