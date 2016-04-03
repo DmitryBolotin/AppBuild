@@ -1,14 +1,14 @@
 #IOS & ANDROID Application compile locally using cordova
 
 ### Pre requirements
-```
+
 1. [Download Java JDK for Windows](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html  "Download Java JDK")
 2. [Android JDK tools or Android studio](https://developer.android.com/sdk/index.html#download / "Android JDK tools or Android studio")
-2.1 Require if you installed Android JDK tools(Open Android SDK manager and select next options):
-2.2 SDK Platform for android-23
-2.3 Android SDK Platform-tools (latest)
-2.4 Android SDK Build-tools (latest)
-```
+>2.1 Require if you installed Android JDK tools(Open Android SDK manager and select next options):
+>2.2 SDK Platform for android-23
+>2.3 Android SDK Platform-tools (latest)
+>2.4 Android SDK Build-tools (latest)
+
 
 ### Requirements
   - Node.js 4+
