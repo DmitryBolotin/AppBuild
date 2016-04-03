@@ -11,7 +11,6 @@ Open Android SDK manager and install next options
 - Android SDK Platform-tools (latest)
 - Android SDK Build-tools (latest)
 
-
 ### Requirements
   - Node.js 4+
   - Cordova 6+
@@ -45,16 +44,6 @@ $ cordova create myApp
 $ cordova build android
 $ cordova run android
 ```
-### Icons
-Icons & Splashes are placed in res folder. All icons are described in config.xml file.
-Setting for icon:
-<icon height="76" src="res/ios/icons/fg-76px.png" width="76" />
-Setting for splash:
-<splash height="480" src="res/ios/splash/640x960.png" width="320" />
-readmore: https://cordova.apache.org/docs/en/latest/config_ref/images.html
-
-#### iOS
-Icons for ios are keep in res/ios folder.
 
 ####Add plugins
 cordova plugin add {plugin name} --save
