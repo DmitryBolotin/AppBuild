@@ -7,7 +7,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 2. Android JDK tools or Android studio
 3.0. Require if you installed Android JDK tools(Open Android SDK manager and select next options):
 3.1. "SDK Platform" for android-23
-3.2. "Android SDK Platform-tools (latest)
+3.2. "Android SDK Platform-tools" (latest)
 3.3. "Android SDK Build-tools" (latest)
 ```
 
@@ -62,7 +62,7 @@ Icons for ios are keep in res/ios folder.
 ####Some cordova plugins
 ```
 cordova plugin add cordova-plugin-splashscreen --save
-cordova-plugin-splashscreen - чтобы можно было сделать первоначальную заставку при открытии приложения
+cordova-plugin-splashscreen - first screen logo displayed when you open app
 cordova-plugin-transport-security - disable cross domain request
 ```
 
