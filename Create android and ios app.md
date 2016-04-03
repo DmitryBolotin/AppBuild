@@ -4,6 +4,7 @@
 
 1. [Download Java JDK for Windows](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html  "Download Java JDK")
 2. [Android JDK tools or Android studio](https://developer.android.com/sdk/index.html#download / "Android JDK tools or Android studio")
+
 #####Require if you installed Android JDK tools
 Open Android SDK manager and select next options
 > SDK Platform for android-23
