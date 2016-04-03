@@ -2,7 +2,8 @@
 
 ### Pre requirements 
 ```sh
-1. Download Java JDK : http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html (for Windows)
+1. Download Java JDK
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html (for Windows)
 2. Android JDK tools or Android studio
 3.0. Require if you installed Android JDK tools(Open Android SDK manager and select next options):
 3.1. "SDK Platform" for android-23
@@ -19,6 +20,10 @@
 Need install cordova globally
 ```sh
 $ npm i -g cordova@latest
+```
+```sh
+install Node.js
+https://nodejs.org/en/download/stable/
 ```
 Add platform:
 
@@ -57,7 +62,7 @@ Icons for ios are keep in res/ios folder.
 ####Some cordova plugins
 ```
 cordova plugin add cordova-plugin-splashscreen --save
-cordova-plugin-splashscreen - чтобы можно было сделать первоначальную заставку при открытии приложения
-cordova-plugin-transport-security - это плагин пользоляет управлять(разрешать/запрещать) кросс-доменными запросами. По умолчанию, в iOS запрещено
+cordova-plugin-splashscreen - С‡С‚РѕР±С‹ РјРѕР¶РЅРѕ Р±С‹Р»Рѕ СЃРґРµР»Р°С‚СЊ РїРµСЂРІРѕРЅР°С‡Р°Р»СЊРЅСѓСЋ Р·Р°СЃС‚Р°РІРєСѓ РїСЂРё РѕС‚РєСЂС‹С‚РёРё РїСЂРёР»РѕР¶РµРЅРёСЏ
+cordova-plugin-transport-security - disable cross domain request
 ```
 
