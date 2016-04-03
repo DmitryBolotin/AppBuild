@@ -6,7 +6,7 @@
 2. [Android JDK tools or Android studio](https://developer.android.com/sdk/index.html#download / "Android JDK tools or Android studio")
 
 #####Require if you installed Android JDK tools
-Open Android SDK manager and select next options
+Open Android SDK manager and install next options
 - SDK Platform for android-23
 - Android SDK Platform-tools (latest)
 - Android SDK Build-tools (latest)
@@ -21,10 +21,8 @@ Need install cordova globally
 ```sh
 $ npm i -g cordova@latest
 ```
-Install Node.js
-```sh
-https://nodejs.org/en/download/stable/
-```
+Install [Node.js](https://nodejs.org/en/download/stable/)
+
 Add platform:
 ```sh
 cordova platform add ios --save
