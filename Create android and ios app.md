@@ -16,11 +16,12 @@ Open Android SDK manager and install next options
   - Cordova 6+
 
 ### Installation
+Install [Node.js](https://nodejs.org/en/download/stable/)
+
 Need install cordova globally
 ```sh
 $ npm i -g cordova@latest
 ```
-Install [Node.js](https://nodejs.org/en/download/stable/)
 
 Add platform:
 ```sh
