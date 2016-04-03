@@ -12,7 +12,6 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 ```
 
 ### Requirements
-
   - Node.js 4+
   - Cordova 6+
 
@@ -21,16 +20,15 @@ Need install cordova globally
 ```sh
 $ npm i -g cordova@latest
 ```
+Install Node.js
 ```sh
-install Node.js
 https://nodejs.org/en/download/stable/
 ```
 Add platform:
-
 ```sh
 cordova platform add ios --save
 cordova platform add android --save
-cordova platform add browser --save
+cordova platform add browser --save (open app in browser)
 ```
 
 ### Build for iOS
@@ -59,10 +57,13 @@ readmore: https://cordova.apache.org/docs/en/latest/config_ref/images.html
 #### iOS
 Icons for ios are keep in res/ios folder.
 
+####Add plugins
+cordova plugin add {plugin name} --save
+
 ####Some cordova plugins
 ```
-cordova plugin add cordova-plugin-splashscreen --save
 cordova-plugin-splashscreen - first screen logo displayed when you open app
 cordova-plugin-transport-security - disable cross domain request
 ```
+
 
