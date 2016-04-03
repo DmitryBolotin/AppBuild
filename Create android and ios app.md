@@ -1,4 +1,4 @@
-#IOS & ANDROID Application for Webkit Manager
+#IOS & ANDROID Application compile locally using cordova
 
 ### Pre requirements 
 ```sh
