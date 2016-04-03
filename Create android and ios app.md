@@ -7,9 +7,9 @@
 
 #####Require if you installed Android JDK tools
 Open Android SDK manager and select next options
-> SDK Platform for android-23
-> Android SDK Platform-tools (latest)
-> Android SDK Build-tools (latest)
+- SDK Platform for android-23
+- Android SDK Platform-tools (latest)
+- Android SDK Build-tools (latest)
 
 
 ### Requirements
